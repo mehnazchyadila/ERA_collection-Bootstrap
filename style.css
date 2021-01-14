@@ -1,0 +1,96 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+}
+.margin-bottom{
+    margin-bottom: 100px;
+}
+.navbar-brand img{
+    width: 100px;
+}
+.col-md-5 img{
+    width: 100%;
+}
+.sky-bg{
+    background-color: rgb(228, 245, 245);
+}
+.banner{
+    padding: 60px 10px;
+}
+.banner-text{
+    padding:100px 0;
+}
+.banner-white, .banner-blue{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 88px;
+    font-family: 'Bebas Neue', cursive;
+}
+.banner-white{
+    color:rgb(49, 1, 45);
+}
+.banner-blue{
+    color: #0a0238;
+}
+.buy-now-button {
+    background-image: linear-gradient(to right, rgb(10, 1, 31) 0%, rgb(99, 8, 245) 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.top-text{
+    font-size: 50px;
+}
+.text{
+    font-size: 25px;
+}
+.card img{
+    /* width: 350px; */
+    height: 350px;
+}
+.card, .cat{
+    background: #FFFFFF;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+.categories img{
+    width: 15%;
+}
+.cat{
+    margin-top: 10px;
+    width: 489px;
+    height: 135px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+    margin-bottom : 20px;
+}
+.shop-img{
+    margin-top: 100px;
+}
+.looking-sec{
+    height:150px;
+    border : 1px solid lightblue;
+    padding : 40px;
+}
+.trade-gray{
+    color:gray;
+}
+.footer{
+    color:white;
+    height:300px;
+    padding-top: 80px;
+}
+.footer-sec{
+    background-color: #03010c;
+}
+.card-footer{
+    border: 0;
+    background-color: white;
+}
+.price {
+    color: #1713ff;
+}
